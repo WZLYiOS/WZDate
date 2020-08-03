@@ -1,0 +1,6 @@
+framework module WZDate {
+  umbrella header "WZDate-umbrella.h"
+
+  export *
+  module * { export * }
+}

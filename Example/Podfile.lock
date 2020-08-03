@@ -1,0 +1,16 @@
+PODS:
+  - WZDate (0.1.0)
+
+DEPENDENCIES:
+  - WZDate (from `../`)
+
+EXTERNAL SOURCES:
+  WZDate:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WZDate: 846aaba2cd3944eff0fa86fad0320bade21a5e58
+
+PODFILE CHECKSUM: 2888cf3015678a873bddc7cc779cbb7d5dacb324
+
+COCOAPODS: 1.9.1

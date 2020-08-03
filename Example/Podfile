@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'WZDate_Example' do
+  pod 'WZDate', :path => '../'
+
+  target 'WZDate_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
